@@ -1,8 +1,3 @@
-# React + Vite
+# MovieMate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MovieMate is a modern React app for discovering, searching, and saving your favorite movies. Built with Vite and powered by The Movie Database (TMDb) API, it features a clean UI, movie details modal, and persistent favorites.
