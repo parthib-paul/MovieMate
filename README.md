@@ -3,9 +3,6 @@
 MovieMate is a modern, responsive React app for discovering, searching, and saving your favorite movies. Powered by [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api), it features a clean UI, movie details modal, persistent favorites, and more.
 
 
-![MovieMate Screenshot](<img width="1453" height="767" alt="Screenshot 2025-09-04 at 9 14 27 PM" src="https://github.com/user-attachments/assets/8393e78c-3b14-4ad0-b8f6-3bbfd62f636e" />
-) 
-
 ## ✨ Features
 
 - **Browse Popular Movies:** Instantly see trending and popular movies.
@@ -15,7 +12,6 @@ MovieMate is a modern, responsive React app for discovering, searching, and savi
 - **Persistent Storage:** Favorites are saved in your browser (localStorage).
 - **Responsive Design:** Looks great on desktop and mobile.
 
----
 
 ## 🚀 Getting Started
 
